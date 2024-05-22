@@ -18,20 +18,20 @@ public class Futbolista extends Persona {
 
     @Override
     public void concentrarse() {
-        System.out.println("El futbolista se concentra...");
+        System.out.println("El futbolista se concentra:");
     }
 
     @Override
     public void viajar() {
-        System.out.println("El futbolista viaja...");
+        System.out.println("El futbolista viaja:");
     }
 
     public void jugarPartido() {
-        System.out.println("El futbolista juega un partido...");
+        System.out.println("El futbolista juega un partido:");
     }
 
     public void entrenar() {
-        System.out.println("El futbolista entrena...");
+        System.out.println("El futbolista entrena:");
     }
 
     @Override
