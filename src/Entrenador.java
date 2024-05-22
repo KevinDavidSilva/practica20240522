@@ -1,3 +1,3 @@
-public class Entrenador {
+public class Entrenador  {
 
 }
